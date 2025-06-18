@@ -9,4 +9,4 @@
 - **GitHub Repository:** [6363862-Souptik_Digital-Nurture-4.0-DotNetFSE_Assesment_Repo](https://github.com/souptik23/6363862-Souptik_Digital-Nurture-4.0-DotNetFSE_Assesment_Repo.git)
 
 ---
-## 📅 Week 1: Data Structures and Algorithms
+## 📅 Week 2: Design principles & Patterns
