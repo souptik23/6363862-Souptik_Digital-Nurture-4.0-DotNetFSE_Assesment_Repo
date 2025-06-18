@@ -1,2 +1,3 @@
 this is the demo text file to check the working of the repo finalize
 checking the temp branch
+third commitgit 
