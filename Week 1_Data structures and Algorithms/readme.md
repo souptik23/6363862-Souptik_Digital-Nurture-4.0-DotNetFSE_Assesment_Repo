@@ -10,3 +10,4 @@
 
 ---
 ## 📅 Week 1: Data Structures and Algorithms
+I am using JetBrains Rider to write the code in a .NET solution project and uploading only the required .cs files. As a result, the code may not run directly in GitHub CodeSpace, but it will definitely work locally after setting up a basic .NET console project and placing the files accordingly.
